@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "time": "morning",
+    "greeting": "Good morning"
+  },
+  {
+    "id": 2,
+    "time": "afternoon",
+    "greeting": "Good afternoon"
+  },
+  {
+    "id": 3,
+    "time": "evening",
+    "greeting": "Good evening"
+  }
+]
